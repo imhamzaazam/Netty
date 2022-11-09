@@ -1,3 +1,6 @@
-org/example/EchoServer$1.class
-org/example/echoserverhandler/EchoServerHandler.class
+org/example/echoclienthandler/EchoClient.class
+org/example/echoclienthandler/EchoClient$1.class
 org/example/EchoServer.class
+org/example/EchoServer$1.class
+org/example/echoclienthandler/EchoClientHandler.class
+org/example/echoserverhandler/EchoServerHandler.class

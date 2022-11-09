@@ -1,2 +1,4 @@
-/home/hamza/Hamza/Projects/Personal/untitled/src/main/java/org/example/EchoServer.java
-/home/hamza/Hamza/Projects/Personal/untitled/src/main/java/org/example/echoserverhandler/EchoServerHandler.java
+/home/hamza/Hamza/Projects/Personal/Netty/src/main/java/org/example/echoclienthandler/EchoClientHandler.java
+/home/hamza/Hamza/Projects/Personal/Netty/src/main/java/org/example/echoserverhandler/EchoServerHandler.java
+/home/hamza/Hamza/Projects/Personal/Netty/src/main/java/org/example/EchoServer.java
+/home/hamza/Hamza/Projects/Personal/Netty/src/main/java/org/example/echoclienthandler/EchoClient.java
